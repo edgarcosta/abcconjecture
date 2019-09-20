@@ -7,3 +7,16 @@ That's fine too.
 
 No more red!
 Yeah, who wants to be reminded of tomatoes?
+
+But green?
+What's wrong with red?
+
+
+
+
+Yellow too!
+What's wrong with red?
+
+Nothing
+
+Black
