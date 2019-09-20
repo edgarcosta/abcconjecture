@@ -12,7 +12,7 @@ What's wrong with red?
 
 
 
-YELLOW!
+Yellow too!
 What's wrong with red?
 
 Nothing
