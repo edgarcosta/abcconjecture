@@ -1,0 +1,37 @@
+\documentclass[12pt]{amsart}
+
+\input{0_Paper_Style.sty}
+
+\input{1_Alphabet_Commands.tex}
+
+\input{2_Math_Commands.tex}
+
+\input{3_Paper_Specific_Commands.tex}
+
+\begin{document}
+\title{The ABC Conjecture}
+\author{Everyone involved in the Langlands Program}
+
+\begin{abstract}
+	Using super secret techniques, we prove the ABC Conjecture.
+\end{abstract}
+
+\maketitle
+
+\section{The ABC Conjecture: A Statement}
+
+\begin{defn}
+	For $n = \pm p_1^{e_1} \ldots p_k^{e_k}$ a nonzero integer with $p_1, \ldots, p_k$ distinct primes and $e_1, \ldots, e_k \geq 1$, we say $\rad \parent n = p_1 \ldots p_k$. Note that the radical of $n$ is the unique positive generator of the radical of the ideal $(n)$.
+\end{defn}
+
+\begin{conjecture}
+	For every $\epsilon > 0$, there exists a positive number $K_\epsilon \in \bbR_{> 0}$ such that for any triple of integers $(a,b,c) \in \bbZ^3$ which are pairwise coprime and satisfy $a + b = c$, we have 
+	\[
+	c < K_\epsilon \cdot \rad\parent{abc}^{1 + \epsilon}.
+	\]
+\end{conjecture}
+
+\bibliography{ABC_Sources}{}
+\bibliographystyle{amsplain}
+
+\end{document}
