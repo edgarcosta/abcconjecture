@@ -7,4 +7,5 @@ That's fine too.
 
 No more red!
 
+What's wrong with red?
 Black
