@@ -9,7 +9,7 @@ No more red!
 
 
 
-Yellow!
+Yellow too!
 What's wrong with red?
 
 Nothing
