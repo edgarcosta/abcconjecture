@@ -1,0 +1,1 @@
+Let a, b, and c be pairwise coprime integers such that a + b = c. If we write d = rad(abc), then d is not much smaller than c, in the following sense. For any epsilon bigger than 0, there exists K dependent on epsilon such that c < K*d^(1+epsilon) whenever a, b, c, and d are as above.
