@@ -1,8 +1,12 @@
 blue I say
 orange?
 
-OK orange is fine.
+Ok orange is fine.
 What about turquoise?
 That's fine too. 
 
-Oops.
+No more red!
+
+What's wrong with red?
+
+Nothing
